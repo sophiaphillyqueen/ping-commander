@@ -1,0 +1,15 @@
+.TH PING\-COMMANDER 1
+.SH NAME
+ping\-commander \- A network\-health\-monitoring utility that uses \fBping\fR
+.SH SYNOPSIS
+.B ping\-commander
+[\fIoptions\fR]
+.SH DESCRIPTION
+Way too early in development to say much here.
+.SH OPTIONS
+The options are processed in the order that they appear on the command line.
+Each option overrides any earlier option to it's contrary.
+.TP
+.BR \-\-help
+Displays this help file \- and exits the program once
+you are finished reading it.
